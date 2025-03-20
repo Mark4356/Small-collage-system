@@ -48,7 +48,7 @@ $ddd=mysqli_query($conn,$dd);
     <div class="container col-md-10">
     <h1 class="text-center display-6 my-4 fw-bold">Show student
 
-<a href="instructor.php" class="btn btn-dark float-end">View student</a>
+<a href="student.php" class="btn btn-dark float-end">View student</a>
 </h1>
 <div class="card shadow p-4 bg-dark text-light">
 <h2 class="text-start display-6 my-4 fw-bold back-dark">
